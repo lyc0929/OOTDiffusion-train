@@ -52,7 +52,10 @@ python run_ootd.py --model_path <model-image-path> --cloth_path <cloth-image-pat
 cd OOTDiffusion/run
 python run_ootd.py --model_path <model-image-path> --cloth_path <cloth-image-path> --model_type dc --category 2 --scale 2.0 --sample 4
 ```
-
+## Train
+```
+accelerate launch ootd_train.py --load_height 512 --load_width 384 --dataset_list 'train_pairs.txt' --dataset_mode 'train' --batch_size 16 --train_batch_size 16 --num_train_epochs 200
+```
 ## Citation
 ```
 @article{xu2024ootdiffusion,
