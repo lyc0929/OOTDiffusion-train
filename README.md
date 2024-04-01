@@ -1,5 +1,5 @@
 # Reproduced Demo
-![demo](https://github.com/lyc0929/OOTDiffusion-train/blob/main/images/reproduced%20demo.png)
+![repro demo](https://github.com/lyc0929/OOTDiffusion-train/blob/main/images/reproduced%20demo.png)
 # OOTDiffusion
 This repository is the official implementation of OOTDiffusion
 
