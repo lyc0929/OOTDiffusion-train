@@ -1,4 +1,5 @@
 # Reproduced Demo
+**Note** the result image is produced by half training process
 ![repro demo](https://github.com/lyc0929/OOTDiffusion-train/blob/main/images/reproduced%20demo.png)
 # OOTDiffusion
 This repository is the official implementation of OOTDiffusion
