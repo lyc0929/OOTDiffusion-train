@@ -74,4 +74,5 @@ accelerate launch ootd_train.py --load_height 512 --load_width 384 --dataset_lis
 - [x] Gradio demo
 - [x] Inference code
 - [x] Model weights
-- [ ] Training code
+- [x] Training code
+- [ ] distribution Training code 
