@@ -75,4 +75,4 @@ accelerate launch ootd_train.py --load_height 512 --load_width 384 --dataset_lis
 - [x] Inference code
 - [x] Model weights
 - [x] Training code
-- [ ] distribution Training code 
+- [ ] Distributed and Parallel Training code 
